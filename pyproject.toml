@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-qaishelper"
-description = "This Extension adds a few custom QOL nodes that ComfyUI lacks by default."
+description = "first 'real' push"
 version = "1.0.0"
 license = "LICENSE"
 dependencies = ["numpy"]
