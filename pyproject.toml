@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-qaishelper"
+description = "This Extension adds a few custom QOL nodes that ComfyUI lacks by default."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["numpy"]
+
+[project.urls]
+Repository = "https://github.com/QaisMalkawi/ComfyUI-QaisHelper"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-QaisHelper"
+Icon = ""
